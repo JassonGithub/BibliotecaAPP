@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">BookAPP</string>
+    <string name="title_activity_maps">AppLibrary</string>
+    <string name="google_maps_key" translatable="false">AIzaSyCLnbnx3efJ-IsuDAnBTo0xSogf0irGL9M</string>
+    <string name="txtbiblioteca">PUBLIC LIBRARIES OF COLOMBIA</string>
+    <string name="txtsatelite">SATELITE</string>
+    <string name="txtmapa">MAP</string>
+    <string name="mostrar">ALL LIBRARIES</string>
+    <string name="txtdcorrectos">Data loaded</string>
+    <string name="txtfalloinicio">Connection failed</string>
+    <string name="txtmipocicion">you are here</string>
+    <string name="txtnombreB">"Name: "</string>
+    <string name="txtdireccion">"Address: "</string>
+    <string name="txtbarrio">"District: "</string>
+    <string name="txtmunicipio">"Municipality: "</string>
+    <string name="txtDepartamento">"Departament: "</string>
+    <string name="txtNaturaleza">"Nature: "</string>
+    <string name="txtContactos">"Contacts: "</string>
+    <string name="txttipo">Type</string>
+    <string name="txtprecentacion">This APP allows you to locate all the public libraries of Colombia, it gives you its general information</string>
+    <string name="txtAcDesarrolladores">About the developers</string>
+    <string name="txtAbout">ABOUT</string>
+</resources>

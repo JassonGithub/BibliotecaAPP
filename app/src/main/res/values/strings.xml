@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BibliotecasAPP</string>
+    <string name="title_activity_maps">AppBiblioteca</string>
+    <string name="txtbiblioteca">BIBLIOTECAS PUBLICAS DE COLOMBIA</string>
+    <string name="txtsatelite">SATELITE</string>
+    <string name="txtmapa">MAPA</string>
+    <string name="mostrar">MOSTRAR TODAS LAS BIBLIOTECAS</string>
+    <string name="txtdcorrectos">Datos cargados correctamente</string>
+    <string name="txtfalloinicio">No hay acceso a internet</string>
+    <string name="txtmipocicion">Tù estas aqui</string>
+    <string name="txtnombreB">"Nombre: "</string>
+    <string name="txtdireccion">"Direccion: "</string>
+    <string name="txtbarrio">Barrio:</string>
+    <string name="txtmunicipio">Municipio:</string>
+    <string name="txtDepartamento">"Departamento: "</string>
+    <string name="txtNaturaleza">Naturaleza:</string>
+    <string name="txtContactos">Contactos:</string>
+    <string name="txttipo">Tipo</string>
+    <string name="txtprecentacion">Esta APP te permite localizar todas las bibliotecas publicas de Colombia, te da a conocer sus datos generales</string>
+    <string name="txtAcDesarrolladores">Acerca de los desarrolladores:</string>
+    <string name="txtAbout">ACERCA DE</string>
+</resources>
